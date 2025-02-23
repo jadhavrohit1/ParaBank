@@ -1,0 +1,11 @@
+2025-02-16 22:01:40 [main] INFO  testCases.Logintest - Initializing WebDriver...
+2025-02-16 22:01:46 [main] INFO  testCases.Logintest - Opened the application URL.
+2025-02-16 22:01:46 [main] INFO  testCases.TransferFund - Initializing WebDriver...
+2025-02-16 22:01:49 [main] INFO  testCases.TransferFund - Opened the application URL.
+2025-02-16 22:01:49 [main] INFO  testCases.Opennewaccount - Initializing WebDriver...
+2025-02-16 22:01:53 [main] INFO  testCases.Opennewaccount - Opened the application URL.
+2025-02-16 22:01:53 [main] INFO  testCases.Opennewaccount - *****    Login test started  *****
+2025-02-16 22:01:53 [main] INFO  testCases.Opennewaccount - ** Entering username **
+2025-02-16 22:01:53 [main] INFO  testCases.Opennewaccount - ** Entered username **
+2025-02-16 22:01:53 [main] INFO  testCases.Opennewaccount - ** Entering password **
+2025-02-16 22:01:53 [main] INFO  testCases.Opennewaccount - ** Entered password **

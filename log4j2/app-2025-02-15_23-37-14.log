@@ -1,0 +1,24 @@
+2025-02-15 23:37:14 [main] INFO  testCases.TransferFund - Initializing WebDriver...
+2025-02-15 23:37:19 [main] INFO  testCases.TransferFund - Opened the application URL.
+2025-02-15 23:37:19 [main] INFO  testCases.TransferFund - *****    Login test started  *****
+2025-02-15 23:37:19 [main] INFO  testCases.TransferFund - ** Entering username **
+2025-02-15 23:37:19 [main] INFO  testCases.TransferFund - ** Entered username **
+2025-02-15 23:37:19 [main] INFO  testCases.TransferFund - ** Entering password **
+2025-02-15 23:37:19 [main] INFO  testCases.TransferFund - ** Entered password **
+2025-02-15 23:37:20 [main] INFO  testCases.TransferFund - ** Clicked on the login button **
+2025-02-15 23:37:20 [main] INFO  testCases.TransferFund - *****    TransferFunds test started  *****
+2025-02-15 23:37:20 [main] INFO  testCases.TransferFund - *****    TransferFunds test completed  *****
+2025-02-15 23:37:33 [main] INFO  testCases.Opennewaccount - Initializing WebDriver...
+2025-02-15 23:37:43 [main] INFO  testCases.Opennewaccount - Opened the application URL.
+2025-02-15 23:37:43 [main] INFO  testCases.Opennewaccount - *****    Login test started  *****
+2025-02-15 23:37:43 [main] INFO  testCases.Opennewaccount - ** Entering username **
+2025-02-15 23:37:43 [main] INFO  testCases.Opennewaccount - ** Entered username **
+2025-02-15 23:37:43 [main] INFO  testCases.Opennewaccount - ** Entering password **
+2025-02-15 23:37:43 [main] INFO  testCases.Opennewaccount - ** Entered password **
+2025-02-15 23:37:49 [main] INFO  testCases.Opennewaccount - ** Clicked on the login button **
+2025-02-15 23:37:49 [main] INFO  testCases.Opennewaccount - *****    Opening_New_Account test started  *****
+2025-02-15 23:37:49 [main] INFO  testCases.Opennewaccount - ** Clicked on the opennewaccount link **
+2025-02-15 23:37:50 [main] INFO  testCases.Opennewaccount - ** Clicked on the account type dropdown**
+2025-02-15 23:37:50 [main] INFO  testCases.Opennewaccount - ** Selected saving option **
+2025-02-15 23:37:50 [main] INFO  testCases.Opennewaccount - ** clicking on the oprnaccpountbutton
+2025-02-15 23:37:52 [main] INFO  testCases.Opennewaccount - ** clicked on the oprnaccpountbutton

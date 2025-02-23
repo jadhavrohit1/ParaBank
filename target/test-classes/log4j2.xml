@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Properties>
+        <!-- Logs will be stored in the "log" folder inside the project -->
+        <Property name="logPath">C:/Users/Rohit/ParaBank/log4j2</Property>
+        <Property name="logFileName">app-${date:yyyy-MM-dd}.log</Property>
+        <Property name="logPattern">%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</Property>
+    </Properties>
+
+  <Appenders>
+        <!-- Console Logger -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout>
+                <Pattern>${logPattern}</Pattern>
+            </PatternLayout>
+        </Console>
+
+        <!-- Rolling File Logger (Creates a new file for each run) -->
+        <RollingFile name="FileLogger" fileName="${logPath}/${logFileName}" filePattern="${logPath}/app-%d{yyyy-MM-dd_HH-mm-ss}.log">
+            <PatternLayout>
+                <Pattern>${logPattern}</Pattern>
+            </PatternLayout>
+            <Policies>
+                <!-- Create a new log file every time the test runs -->
+                <OnStartupTriggeringPolicy />
+            </Policies>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Root level="TRACE">
+            <AppenderRef ref="Console"/>
+        <AppenderRef ref="FileLogger"/> 
+        </Root>
+    </Loggers>
+</Configuration>

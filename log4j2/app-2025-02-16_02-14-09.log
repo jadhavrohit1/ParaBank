@@ -1,0 +1,38 @@
+2025-02-16 02:14:09 [main] INFO  testCases.Logintest - Initializing WebDriver...
+2025-02-16 02:14:14 [main] INFO  testCases.Logintest - Opened the application URL.
+2025-02-16 02:14:16 [main] INFO  testCases.TransferFund - Initializing WebDriver...
+2025-02-16 02:14:22 [main] INFO  testCases.TransferFund - Opened the application URL.
+2025-02-16 02:14:22 [main] INFO  testCases.TransferFund - *****    Login test started  *****
+2025-02-16 02:14:22 [main] INFO  testCases.TransferFund - ** Entering username **
+2025-02-16 02:14:22 [main] INFO  testCases.TransferFund - ** Entered username **
+2025-02-16 02:14:22 [main] INFO  testCases.TransferFund - ** Entering password **
+2025-02-16 02:14:22 [main] INFO  testCases.TransferFund - ** Entered password **
+2025-02-16 02:14:23 [main] INFO  testCases.TransferFund - ** Clicked on the login button **
+2025-02-16 02:14:23 [main] INFO  testCases.TransferFund - *****    TransferFunds test started  *****
+2025-02-16 02:14:24 [main] INFO  testCases.TransferFund - *****    TransferFunds test completed  *****
+2025-02-16 02:14:37 [main] INFO  testCases.Opennewaccount - Initializing WebDriver...
+2025-02-16 02:14:44 [main] INFO  testCases.Opennewaccount - Opened the application URL.
+2025-02-16 02:14:44 [main] INFO  testCases.Opennewaccount - *****    Login test started  *****
+2025-02-16 02:14:44 [main] INFO  testCases.Opennewaccount - ** Entering username **
+2025-02-16 02:14:44 [main] INFO  testCases.Opennewaccount - ** Entered username **
+2025-02-16 02:14:44 [main] INFO  testCases.Opennewaccount - ** Entering password **
+2025-02-16 02:14:44 [main] INFO  testCases.Opennewaccount - ** Entered password **
+2025-02-16 02:14:45 [main] INFO  testCases.Opennewaccount - ** Clicked on the login button **
+2025-02-16 02:14:45 [main] INFO  testCases.Opennewaccount - *****    Opening_New_Account test started  *****
+2025-02-16 02:14:46 [main] INFO  testCases.Opennewaccount - ** Clicked on the opennewaccount link **
+2025-02-16 02:14:46 [main] INFO  testCases.Opennewaccount - ** Clicked on the account type dropdown**
+2025-02-16 02:14:46 [main] INFO  testCases.Opennewaccount - ** Selected saving option **
+2025-02-16 02:14:46 [main] INFO  testCases.Opennewaccount - ** clicking on the oprnaccpountbutton
+2025-02-16 02:14:48 [main] INFO  testCases.Opennewaccount - ** clicked on the oprnaccpountbutton
+2025-02-16 02:14:49 [main] INFO  testCases.Registractionprocesstest - Initializing WebDriver...
+2025-02-16 02:14:55 [main] INFO  testCases.Registractionprocesstest - Opened the application URL.
+2025-02-16 02:14:57 [main] INFO  testCases.Homepagetest - Initializing WebDriver...
+2025-02-16 02:15:02 [main] INFO  testCases.Homepagetest - Opened the application URL.
+2025-02-16 02:15:02 [main] INFO  testCases.Homepagetest - *** Homepage test starting ****
+2025-02-16 02:15:03 [main] INFO  testCases.Homepagetest - *** clicked on AdminPage link ****
+2025-02-16 02:15:04 [main] INFO  testCases.Homepagetest - *** clicked on Contactus link ****
+2025-02-16 02:15:04 [main] INFO  testCases.Homepagetest - *** clicked on Register link ****
+2025-02-16 02:15:06 [main] INFO  testCases.Homepagetest - *** clicked on home link ****
+2025-02-16 02:15:08 [main] INFO  testCases.Homepagetest - *** clicked on billpay link ****
+2025-02-16 02:15:08 [main] INFO  testCases.Homepagetest - *** clicked on back arrow ****
+2025-02-16 02:15:09 [main] INFO  testCases.Homepagetest - *** clicked on transfer funds ****

@@ -1,0 +1,9 @@
+2025-02-15 21:29:19 [main] INFO  MainTest.TransferFund - Initializing WebDriver...
+2025-02-15 21:29:53 [main] INFO  MainTest.TransferFund - Opened the application URL.
+2025-02-15 21:29:53 [main] INFO  MainTest.TransferFund - *****    Login test started  *****
+2025-02-15 21:29:53 [main] INFO  MainTest.TransferFund - ** Entering username **
+2025-02-15 21:29:53 [main] INFO  MainTest.TransferFund - ** Entered username **
+2025-02-15 21:29:53 [main] INFO  MainTest.TransferFund - ** Entering password **
+2025-02-15 21:29:53 [main] INFO  MainTest.TransferFund - ** Entered password **
+2025-02-15 21:29:54 [main] INFO  MainTest.TransferFund - ** Clicked on the login button **
+2025-02-15 21:29:54 [main] INFO  MainTest.TransferFund - *****    TransferFunds test started  *****

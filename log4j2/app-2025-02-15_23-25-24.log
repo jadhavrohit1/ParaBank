@@ -1,0 +1,10 @@
+2025-02-15 23:25:24 [main] INFO  testCases.Homepagetest - Initializing WebDriver...
+2025-02-15 23:25:31 [main] INFO  testCases.Homepagetest - Opened the application URL.
+2025-02-15 23:25:31 [main] INFO  testCases.Homepagetest - *** Homepage test starting ****
+2025-02-15 23:25:31 [main] INFO  testCases.Homepagetest - *** clicked on AdminPage link ****
+2025-02-15 23:25:32 [main] INFO  testCases.Homepagetest - *** clicked on Contactus link ****
+2025-02-15 23:25:32 [main] INFO  testCases.Homepagetest - *** clicked on Register link ****
+2025-02-15 23:25:34 [main] INFO  testCases.Homepagetest - *** clicked on home link ****
+2025-02-15 23:25:35 [main] INFO  testCases.Homepagetest - *** clicked on billpay link ****
+2025-02-15 23:25:35 [main] INFO  testCases.Homepagetest - *** clicked on back arrow ****
+2025-02-15 23:25:36 [main] INFO  testCases.Homepagetest - *** clicked on transfer funds ****
